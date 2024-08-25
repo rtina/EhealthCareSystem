@@ -1,2 +1,2 @@
 # EhealthCareSystem
-Project on SSP (mini Project)
+Project using JSP AND SERVLET Programming(mini Project)
